@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamescodesthings
-- 👀 I’m interested in Javascript, Web Development, and Cross Platform Mobile Development
-- 🌱 I’m currently learning Python ML
-- 💞️ I’m looking to collaborate on Any cool projects
+- 👀 I’m interested in JS, Web & Mobile development.
+- 🌱 I’m currently learning LUA, PICO-8 and Love for Game Dev.
+- 💞️ I collaborate on game mods and any libraries I can be of use in.
 - 📫 You can reach me at james@codesthings.com
